@@ -6,7 +6,7 @@
 
 ### Примеры работ:
 
-[Дипломная работа]https://github.com/lvovIlya/Netology)
+[Дипломная работа](https://github.com/lvovIlya/Netology)
 
 
 ### Сертификаты:
