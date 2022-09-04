@@ -6,7 +6,7 @@
 
 ## Сертификаты:
 
-Нетология [1С-разработчик] (https://github.com/lvovIlya/Netology)
+Нетология [1С-разработчик](https://github.com/lvovIlya/Netology)
 
 
 
