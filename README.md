@@ -17,7 +17,7 @@
 
 Email: LvovProg@gmail.com
 
-[Telegram](https://t.me/LvovProg) @LvovProg
+Telegram: [@LvovProg](https://t.me/LvovProg)
 
 
 
