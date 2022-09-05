@@ -13,11 +13,10 @@
 
 Нетология [1С-разработчик](https://github.com/lvovIlya/Certificates)
 
+### Контакты:
 
-
-
-
-
+Email: LvovProg@gmail.com
+[Telegram](https://t.me/LvovProg) @LvovProg
 
 
 
