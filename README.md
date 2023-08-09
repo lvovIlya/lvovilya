@@ -11,8 +11,8 @@
 
 ### Сертификаты:
 
-[Список:](https://github.com/lvovIlya/Certificates)
-Нетология [1С-разработчик](https://github.com/lvovIlya/Certificates/blob/main/2022.08.16%20-%20Certificate%20Netology.pdf)
+[Список:](https://github.com/lvovIlya/Certificates)  
+Нетология [1С-разработчик](https://github.com/lvovIlya/Certificates/blob/main/2022.08.16%20-%20Certificate%20Netology.pdf)  
 1С [1С:Профессионал по платформе "1С:Предприятие 8.3"](https://github.com/lvovIlya/Certificates/blob/main/2023.08.08%20-%20Certificate%201C%20-%20Professional%20on%20the%20platform%20'1C%3BEnterprise%208.3'.pdf) 
 
 ### Контакты:
