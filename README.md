@@ -16,7 +16,7 @@
 Нетология | [1С-разработчик](https://github.com/lvovIlya/Certificates/blob/main/2022.08.16%20-%20Certificate%20Netology.pdf)
 1С | [1С:Профессионал по платформе "1С:Предприятие 8.3"](https://github.com/lvovIlya/Certificates/blob/main/2023.08.08%20-%20Certificate%201C%20-%20Professional%20on%20the%20platform%20'1C%3BEnterprise%208.3'.pdf)
 1С | [1С:Профессионал "1С:Розница (ред. 2.3)"](https://github.com/lvovIlya/Certificates/blob/main/2023.08.23%20-%20Certificate%201C%20-%20Professional%20'1%D0%A1%3BRetail%20(ver.%202.3)'.pdf)
-1С | [1С:Профессионал "Управление Торговлей" Редакция 11.5 системы программм "1С:Предприятие 8"](https://github.com/lvovIlya/Certificates/blob/main/2024.01.12%20-%20Certificate%201C%20-%20Professional%20'Trade%20Management'%20(ver.%2011.5)'.pdf)
+1С | [1С:Профессионал "Управление Торговлей" Редакция 11.5 "1С:Предприятие 8"](https://github.com/lvovIlya/Certificates/blob/main/2024.01.12%20-%20Certificate%201C%20-%20Professional%20'Trade%20Management'%20(ver.%2011.5)'.pdf)
 
 ### Контакты:
 
